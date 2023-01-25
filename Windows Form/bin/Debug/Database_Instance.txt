@@ -1,0 +1,6 @@
+National_Number|First_Name|Middle_Name|Last_Name|Password|Gender|Birth_Date|Email|Phone_Num|Address|Marital_Status|NumOfChildren|Experience|Associate|Major_Associate|Uni_Associate|Grade_Associate|Bechelor|Major_Bechelor|Uni_Bechelor|Grade_Bechelor|Master|Major_Master|Uni_Master|Grade_Master|Applied
+1234|mohammad|ahmad|snober|123|0|2000-12-14 00:00:00|moh@psut|0795567444|amman|1|2|developer
+social eng
+|0||||0||||1|Marketing	|Middle East |Very Good|1
+20200744|dsgsd|sdgd|gsdgsdg|1422001|0|2005-12-30 00:00:00|sdgsdg|dsgsdeg|sdgsdgasdg|1|0|fsdgsdfg|1|Major|University of Jordan|Grade|1|Major|University of Jordan|Grade|1|Major|University of Jordan|Grade|1
+1234567890||||123|||||||||||||||||||||
